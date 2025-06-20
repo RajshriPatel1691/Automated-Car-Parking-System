@@ -19,17 +19,17 @@ The Automated Car Parking System is designed to optimize parking space using onl
 🛑 Underground section for overtime tracking
 
 ## 🧰 Tech Stack
--Frontend: Python Qt GUI (PyQt)
--Backend: Python
--Database: MySQL
--IDE: PyCharm
+- Frontend: Python Qt GUI (PyQt)
+- Backend: Python
+- Database: MySQL
+- IDE: PyCharm
 
 ## 📂 Modules
--Main Page: Booking, Login, Exit
--Booking: Slot selection with time and car details
--Bill Generation: Automated calculation of total time and cost
--Cashback: Refund system for early exits
--Admin Dashboard: User records, analysis charts, and record deletion
+- Main Page: Booking, Login, Exit
+- Booking: Slot selection with time and car details
+- Bill Generation: Automated calculation of total time and cost
+- Cashback: Refund system for early exits
+- Admin Dashboard: User records, analysis charts, and record deletion
 
 ## 📈 Future Scope
 - Integration with IoT sensors for real-time slot monitoring
